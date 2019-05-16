@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Сергей Артюшин](https://up.htmlacademy.ru/htmlcss/25/user/636577).
-* Наставник: `Неизвестно`.
+* Наставник: [Артём Альтигин](https://htmlacademy.ru/profile/artem).
 
 ---
 
